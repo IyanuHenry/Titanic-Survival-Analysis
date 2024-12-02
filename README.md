@@ -77,7 +77,7 @@ The analysis focused on exploring survival rates in the Titanic dataset using Mi
 
 ### Insights from the Analysis
 1. **Overall Survival Rate:**
-   The overall survival rate of 38% reveals a grim reality—there was a lack of adequate preparation for emergencies. With less than half the passengers surviving, this low survival rate highlights the insufficient availability of 
+   The overall survival rate of 38% reveals a grim reality, there was a lack of adequate preparation for emergencies. With less than half the passengers surviving, this low survival rate highlights the insufficient availability of 
    lifeboats and safety protocols to accommodate all passengers during the disaster. It also underscores the chaos and inequality that likely influenced survival decisions.
 
 3. **Survival Rate by Gender:**
