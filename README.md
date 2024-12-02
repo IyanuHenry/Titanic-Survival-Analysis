@@ -48,10 +48,17 @@ The analysis focused on exploring survival rates in the Titanic dataset using Mi
 -  Missing values in the Age column were filled with the average age.
 -  The Cabin column's missing values were replaced with "Unknown."
 -  Missing values in the Embarked column were filled with the most frequent value ("S").
+
+![EXcel table](https://github.com/user-attachments/assets/3e65a5fa-d000-4648-910c-f3a0ddd39809)
+
+
   
 2. **Survival Rate Calculations:**
 -  Overall survival rate was determined by dividing the number of survivors by the total number of passengers.
 -  Survival rates were further analyzed by gender and passenger class using conditional formulas.
+
+![cal](https://github.com/user-attachments/assets/91847b8f-4fc1-40f0-a859-a84147cb4fa3)
+
   
 3. **Revenue Calculation:**
 -  The total ticket revenue was calculated by summing up the values in the Fare column.
@@ -59,7 +66,13 @@ The analysis focused on exploring survival rates in the Titanic dataset using Mi
 4. **Visualization:**
 -  Charts were created to visually represent survival rates by gender, class, and other factors.
 
-  
+![Total Revenue](https://github.com/user-attachments/assets/076ff0f1-444c-4816-9217-416329197213)
+
+![Survival Sex](https://github.com/user-attachments/assets/894bdd96-7837-4659-a730-507aa8812615)
+
+![survival pclass](https://github.com/user-attachments/assets/adf8a293-1aa3-4263-ab47-760710ff2f5c)
+
+![Survival Age](https://github.com/user-attachments/assets/7f1556f9-9928-489f-b3ea-cfdd4e2d3bf6)
   
 
 ### Insights from the Analysis
@@ -67,14 +80,14 @@ The analysis focused on exploring survival rates in the Titanic dataset using Mi
    The overall survival rate of 38% reveals a grim reality—there was a lack of adequate preparation for emergencies. With less than half the passengers surviving, this low survival rate highlights the insufficient availability of 
    lifeboats and safety protocols to accommodate all passengers during the disaster. It also underscores the chaos and inequality that likely influenced survival decisions.
 
-2. **Survival Rate by Gender:**
+3. **Survival Rate by Gender:**
    A striking pattern emerged in the survival rates by gender. The analysis revealed that females had a significantly higher survival rate compared to males. This suggests that the "women and children first" protocol may have been 
    followed to some extent during evacuation. However, it also highlights the disparities faced by male passengers, many of whom likely sacrificed their chance to survive for others.
 
-3. **Survival Rate by Passenger Class:**
-   Class played a significant role in survival likelihood. Passengers in First Class had the highest survival rate, followed by those in Second Class, with Third Class passengers faring the worst. This trend reflects the socio-economic 
-   inequalities of the time, where wealthier passengers had better access to lifeboats and safety information. The lower survival rates among Third Class passengers illustrate the tragic impact of limited resources and accessibility for 
-   the less privileged.
+5. **Survival Rate by Passenger Class:**
+   Class played a significant role in survival likelihood. Passengers in First Class had the highest survival rate, followed by those in Second Class, with Third Class passengers faring the worst.
+   This trend reflects the socio-economic inequalities of the time, where wealthier passengers had better access to lifeboats and safety information. The lower survival rates among Third Class passengers illustrate the tragic impact of 
+   limited resources and accessibility for the less privileged.
 
 ### Conclusion
 The analysis of the Titanic dataset reveals critical insights into the survival dynamics of the disaster. With an overall survival rate of 38%, it is evident that there was inadequate preparation and insufficient resources to ensure passenger safety.
