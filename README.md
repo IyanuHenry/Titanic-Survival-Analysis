@@ -11,5 +11,12 @@ This project explores the Titanic dataset to uncover insights into passenger sur
 
  Through this analysis, the project aims to provide a comprehensive understanding of the variables that influenced survival outcomes during the Titanic disaster.
 
+### Data Source
+The dataset for this project is the Train dataset from the Kaggle Titanic - Machine Learning from Disaster competition. 
+It provides detailed information about a subset of Titanic passengers, including their survival status (Survived), demographics, and other attributes.
+The dataset was sourced from (Kaggle)[https://www.kaggle.com/competitions/titanic/data]  a platform for data science and machine learning enthusiasts.
+Only the Train dataset was used in this analysis, focusing on its structured data to derive insights about survival rates across various factors.
+
+
 
  
